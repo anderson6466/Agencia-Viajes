@@ -3,7 +3,7 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import Pagination from 'react-bootstrap/Pagination';
 import React, { useState } from 'react';
-import DetalleViaje from './pages/page';
+import DetalleViaje from './pages/DetalleViaje';
 import Link from 'next/link';
 export default function Home() {
 
