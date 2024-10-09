@@ -1,5 +1,5 @@
 {
-  "name": "travel-proyect",
+  "name": "proyect-next-places",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "next": "14.2.14",
-    "react": "^18",
     "react-bootstrap": "^2.10.5",
-    "react-dom": "^18"
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "13.5.7"
   }
 }
