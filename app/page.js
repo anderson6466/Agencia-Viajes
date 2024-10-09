@@ -91,7 +91,7 @@ export default function Home() {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-         <img  src="https://agencia-viajes-gamma.vercel.app/icon.png"></img>
+         <img  src="https://agencia-viajes-gamma.vercel.app/icono.png"></img>
         </a>
         <button
           className="navbar-toggler"
@@ -152,7 +152,7 @@ export default function Home() {
           
         </div>
         <div class="carousel-item">
-        <img src="https://agencia-viajes-gamma.vercel.app/promocion2.jpg"  width="800" height="400" role="img" aria-label="Placeholder: First slide" preserveAspectRatio="xMidYMid slice" focusable="false"  class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" alt="..."/>
+        <img src="https://agencia-viajes-gamma.vercel.app/promocion-2.jpg"  width="800" height="400" role="img" aria-label="Placeholder: First slide" preserveAspectRatio="xMidYMid slice" focusable="false"  class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" alt="..."/>
         </div>
         <div class="carousel-item">
         <img src="https://agencia-viajes-gamma.vercel.app/promocion3.jpg"  width="800" height="400" role="img" aria-label="Placeholder: First slide" preserveAspectRatio="xMidYMid slice" focusable="false"  class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" alt="..."/>
